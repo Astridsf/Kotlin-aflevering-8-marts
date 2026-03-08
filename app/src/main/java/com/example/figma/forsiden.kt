@@ -1,5 +1,6 @@
 package com.example.figma
 
+
 import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
